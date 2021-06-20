@@ -1,4 +1,4 @@
-module github.com/linjunjj/rocketmq-client-g
+module github.com/linjunjj/rocketmq-client-go
 
 require (
 	github.com/emirpasic/gods v1.12.0
